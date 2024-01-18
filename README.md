@@ -1,9 +1,13 @@
-﻿# Login_UI-using-Expo
+# Login/Register
 
-# App/UI Screenshots 
+### Basic Overview
 
-![Screenshot 2024-01-18 204605](https://github.com/RohitPatra-2002/Login_UI-using-Expo/assets/119285694/51c481dc-8fbf-45dc-853a-bb2c6959d773)
+Made this animated Login and Register screen for android apps with React Native and React Native Reanimated.
 
-![Screenshot 2024-01-18 204534](https://github.com/RohitPatra-2002/Login_UI-using-Expo/assets/119285694/848a3f79-65ee-4d5f-96bc-8f52d329d39f)
+## Pages/UI
 
-![Screenshot 2024-01-18 204106](https://github.com/RohitPatra-2002/Login_UI-using-Expo/assets/119285694/4f03d370-fc1a-4ca2-8b6e-30769f33ce9b)
+### Login Page
+![Screenshot 2024-01-18 204048](https://github.com/RohitPatra-2002/Login_UI-using-Expo/assets/119285694/27ae437a-7cfd-4ec0-8a2b-477522511130)
+
+### Register Page
+![Screenshot 2024-01-18 204534](https://github.com/RohitPatra-2002/Login_UI-using-Expo/assets/119285694/9f287e88-12ae-4484-8bed-a9e20266c127)
