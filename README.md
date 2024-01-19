@@ -4,6 +4,8 @@
 
 Made this animated Login and Register screen for android apps with React Native and React Native Reanimated.
 
+### [Link to the apk](https://drive.google.com/file/d/1Ayis-BmGyfS4ejim0UPMLEY4gDw5ZSlu/view?usp=sharing)
+
 ## Pages/UI
 
 ### Login Page
